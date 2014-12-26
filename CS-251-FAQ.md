@@ -4,19 +4,17 @@
       <P>Upon completing this course, students should be able to:
         <ul>
           <li><p>Recognize the inherent and accidental
-    e        complexities involved with developing concurrent software that
-            communicates securely between processes and
-            threads.</p></li>
+            complexities involved with developing object-oriented and generic software .</p></li>
           <li><p>Understand how pattern-oriented software
             architecture and framework techniques can and cannot help to
             alleviate these complexities.</p></li>
           <li><p>Apply patterns and
-            frameworks to develop reusable and resilient concurrent
+            frameworks to develop reusable and resilient 
             applications and services using the Java object-oriented
             programming language and Android middleware.</p></li>
           <li><p>Know
             where to find additional sources of information on how to
-            program mobile applications and services on Android handheld
+            program applications and services on Android handheld
             systems.</p></li>
         </ul></P>
     </li>
@@ -29,8 +27,8 @@
         and a practical level (e.g., gain experience programming Android
         applications using Java and Eclipse). Students in
         both courses are also expected to be (1) familiar with Java 
-        and (2) capable of learning new material (such as Eclipse and the Git source code control tools) without significant hand-holding by the teachers and course staff. The lecture
-        material in CS 282 is based on the material in the Coursera MOOC (see <a
+        and (2) capable of learning new material (such as Eclipse and the Git source code control tools) without significant hand-holding by the teachers and course staff. Some lecture
+        material in CS 251 is based on the material in the Coursera MOOC (see <a
         href="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4tbiFYip6tDNIEBRUDyPQK">YouTube
         channel</a>). The quizzes, programming assignments, and degree
         of feedback for this course are different, however,
@@ -40,7 +38,7 @@
     </li>
 
     <li><b>What are your assumptions about--and expectations
-        for--students taking CS 282?</b>
+        for--students taking CS 251?</b>
 
       <p>As mentioned in FAQ item #2 above, this course is based on material we've crafted for the Coursera MOOC Specialization on Mobile Cloud Computing with Android. This
         material is intended for self-motivated students who
@@ -48,7 +46,7 @@
         <li> Know Java, Eclipse, and Git (or can learn them quickly on
         their own) 
         <li> Want to understand both the concepts and
-        practice of developing mobile software applications and services
+        practice of developing object-oriented and generic software applications and services
         <li> Are curious about how the Android software stack itself is designed and implemented
         <li> Are willing/able to carefully read/follow the instructions in the course assignments and 
         announcements. 
