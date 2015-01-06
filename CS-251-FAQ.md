@@ -84,7 +84,7 @@
 
 <li> <b>Who is eligible to enroll in this class and access the material?</b>
 
-      <p>Anyone is welcome to watch the videos on my YouTube <A HREF="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne">CS 251 playlist</a> and do the <A HREF="https://github.com/douglascraigschmidt/CS251/tree/master/assignments">programming assignments</a>.  However, only Vanderbilt students can enroll in this class and access the other material at the course website.
+      <p>Anyone is welcome to watch the videos on my YouTube <A HREF="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne">CS 251 playlist</a> and do the <A HREF="https://github.com/douglascraigschmidt/CS251/tree/master/assignments">programming assignments</a>.  However, only Vanderbilt students can enroll in this class and access the other material at the course website.  At some point, this material may be included in a MOOC, but that hasn't been finalized yet.
       </p>
     </li>
 </ol> 
