@@ -69,4 +69,22 @@
       <p>Not having your code available for peer evaluation adds extra work for the course staff. Therefore, if you don't submit your code for peer evaluation by the deadline you will receive a 20% deduction on your final score for the assignment.
       </p>
     </li>
+
+<li> <b>How does the graduate material differ from the undergraduate material?</b>
+
+      <p>Students taking this course for graduate credit have additional work on each assignment, quiz, and final exam.
+      </p>
+    </li>
+
+<li> <b>Where is the C++ version of this course?</b>
+
+      <p>The lectures and assignments from the most recent C++ version of this course is available <A HREF="http://www.dre.vanderbilt.edu/~schmidt/cs251/C++/">here</a>.
+      </p>
+    </li>
+
+<li> <b>Who is eligible to enroll in this class and access the material?</b>
+
+      <p>Anyone is welcome to watch the videos on my YouTube <A HREF="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne">CS 251 playlist</a> and do the <A HREF="https://github.com/douglascraigschmidt/CS251/tree/master/assignments">programming assignments</a>.  However, only Vanderbilt students can enroll in this class and access the other material at the course website.
+      </p>
+    </li>
 </ol> 
