@@ -87,4 +87,10 @@
       <p>Anyone is welcome to watch the videos on my YouTube <A HREF="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne">CS 251 playlist</a> and do the <A HREF="https://github.com/douglascraigschmidt/CS251/tree/master/assignments">programming assignments</a>.  However, only Vanderbilt students can enroll in this class and access the other material at the course website.  At some point, this material may be included in a MOOC, but that hasn't been finalized yet.
       </p>
     </li>
+
+<li> <b>When will the screencasts of the class lectures be available?</b>
+
+      <p>The screencasts will typically be posted soon after each class lecture is given, starting on Monday January 5th 2015 and continuing until the end of April 2015.  There are typically two lectures a week (Monday and Wednesday), but the lectures aren't always published as screencasts, depending on what is covered that day.  In particular, the answers to quizzes and programming assignments aren't posted as screencasts.
+      </p>
+    </li>
 </ol> 
