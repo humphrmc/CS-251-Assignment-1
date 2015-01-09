@@ -98,7 +98,7 @@
 
       <p> It is not necessary to include comments at the top of your source code files with your name, email, honor code statement, assignment name, date, etc. since
 <ul>
-<li>We're using GitLal, so the course staff know whose code we're reviewing
+<li>We're using GitLab, so the course staff know whose code we're reviewing
 <li>We want to enable "anonymous" peer reviewing, so don't put information indicating authorship in your programs
 <LI>The Honor Code applies to everything we do in CS 251, as per discussions in the first class.
 </ul>  </p>
