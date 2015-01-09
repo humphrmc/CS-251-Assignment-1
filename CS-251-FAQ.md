@@ -103,4 +103,10 @@
 <LI>The Honor Code applies to everything we do in CS 251, as per discussions in the first class.
 </ul>  </p>
     </li>
+<li> <b>How should student GitLab accounts be created and structured?</b>
+
+      <p>Each student should create a single GitLab account and submit the ID to the Google Survey sent via email.  The GitLab repository should be structured like the assignment folder <A HREF="https://github.com/douglascraigschmidt/CS251/tree/master/assignments/">here</a>, i.e., there should be a separate directory for each assignment.  Failure to follow this structure will prevent the course staff from grading programming assignment submissions.
+      </p>
+    </li>
+
 </ol> 
