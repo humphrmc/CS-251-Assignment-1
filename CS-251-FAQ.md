@@ -93,4 +93,14 @@
       <p>The screencasts will typically be posted soon after each class lecture is given, starting on Monday January 5th 2015 and continuing until the end of April 2015.  There are typically two lectures a week (Monday and Wednesday), but the lectures aren't always published as screencasts, depending on what is covered that day.  In particular, the answers to quizzes and programming assignments aren't posted as screencasts.
       </p>
     </li>
+
+<li> <b>What information (if any) is needed at the top of the programming assignment submissions?</b>
+
+      <p> It is not necessary to include comments at the top of your source code files with your name, email, honor code statement, assignment name, date, etc. since
+<ul>
+<li>We're using GitLal, so the course staff know whose code we're reviewing
+<li>We want to enable "anonymous" peer reviewing, so don't put information indicating authorship in your programs
+<LI>The Honor Code applies to everything we do in CS 251, as per discussions in the first class.
+</ul>  </p>
+    </li>
 </ol> 
