@@ -109,4 +109,9 @@
       </p>
     </li>
 
+<li> <b>What is the process for initial submissions and resubmissions of programming assignments?</b>
+
+      <p>Please see the instructions <A HREF="http://www.dre.vanderbilt.edu/~schmidt/cs251/assignments.html">here</a>.
+      </p>
+    </li>
 </ol> 
