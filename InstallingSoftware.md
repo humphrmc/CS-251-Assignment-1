@@ -9,15 +9,15 @@ Our very own Mike Walker has created videos on [installing](https://www.course
 
 IntelliJ may be downloaded from [here](https://www.jetbrains.com/idea/#chooseYourEdition).  You may select either version; this class will use only features found in the community edition.  Your status as a Vanderbilt student also entitles you to an Ultimate license as long as you are a student.  
 
-You will be required to make a Gitlab account.  You may do so [here](https://gitlab.com/users/sign_in)(See 'New User' if you do not have an account).  Once you have created your account, ensure that you are logged in, then visit the [course repository]().  There, you will find a screen that looks like this:
+You will be required to make a Gitlab account.  You may do so [here](https://gitlab.com/users/sign_in)(See 'New User' if you do not have an account).  Once you have created your account, ensure that you are logged in, andyou will find a screen that looks like this:
 
-![Course Repo](http://i.imgur.com/CEDimyK.png)
+![Homepage](http://i.imgur.com/zSqfIdS.png)
 
-Click the 'Fork' button to create your own fork of this repository.  The next screen will ask you to associate your fork with a person/group.  Most of your screens will look like this, just click your user name:
+Click the 'New Project' button to create your own repository for your coursework.  Please look carefully at everything that is circled in a red rectangle. 
 
-![Assign to Yourself](http://i.imgur.com/3HGCQOj.png)
+![New Repository](http://i.imgur.com/xPQQkN7.png)
 
-Once that is complete, you should be taken to your 'fork' of the course repository.  Click on the 'Settings' butt on the right hand side:
+Once that is complete, you should be taken to your repository.  Click on the 'Settings' butt on the right hand side:
 
 ![Click on Settings](http://i.imgur.com/7cOs0vP.png)
 
@@ -25,7 +25,7 @@ On the first Settings page, please make sure that 'Private' is selected.  (**VER
 
 ![Save changes!](http://i.imgur.com/fRJ0Lyt.png)
 
-Don't forget to scroll down and save your changes:
+Don't forget to scroll down and save your changes if you made any:
 
 ![Save changes!](http://i.imgur.com/c9CTHx2.png)
 
