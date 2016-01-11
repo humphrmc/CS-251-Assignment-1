@@ -23,9 +23,11 @@ Once that is complete, you should be taken to your 'fork' of the course reposito
 
 On the first Settings page, please make sure that 'Private' is selected.  (**VERY IMPORTANT**: Failure to do so will have consequences)
 
+![Save changes!](http://i.imgur.com/fRJ0Lyt.png)
+
 Don't forget to scroll down and save your changes:
 
-![Save changes!](http://i.imgur.com/fRJ0Lyt.png)
+![Save changes!](http://i.imgur.com/c9CTHx2.png)
 
 Then go to the "Groups" section on the left-hand navigation bar (circled above!):
 
@@ -34,4 +36,3 @@ Then go to the "Groups" section on the left-hand navigation bar (circled above!)
 Here, you will need to give the TAs access to your repository.  Do that by adding the 'cs-251-spring-2016' group with 'Master' permissions:
 
 ![cs-251-spring-2016](http://i.imgur.com/2PMXL1z.png)
-
