@@ -1,6 +1,6 @@
 All the assignment and example source code provided at  
 
-[https://gitlab.com/wrotte/cs-251-spring-2016](https://gitlab.com/wrotte/cs-251-spring-2016)  
+[https://github.com/douglascraigschmidt/CS251](https://github.com/douglascraigschmidt/CS251)  
 
 is designed for use with IntelliJ and Java, for parts that are purely Java; projects that use Android will require Android Studio. 
 
