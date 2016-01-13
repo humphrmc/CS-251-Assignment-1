@@ -25,9 +25,9 @@
         development at both a conceptual level (e.g., an understanding
         of software patterns, object-oriented design, and frameworks)
         and a practical level (e.g., gain experience programming Android
-        applications using Java and Eclipse). Students in
+        applications using Java, IntelliJ, and Android Studio). Students in
         both courses are also expected to be (1) familiar with Java 
-        and (2) capable of learning new material (such as Eclipse and the Git source code control tools) without significant hand-holding by the teachers and course staff. Some lecture
+        and (2) capable of learning new material (such as IntelliJ, Android Studio, and the Git source code control tools) without significant hand-holding by the teachers and course staff. Some lecture
         material in CS 251 is based on the material in the Coursera MOOC (see <a
         href="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4tbiFYip6tDNIEBRUDyPQK">YouTube
         channel</a>). The quizzes, programming assignments, and degree
@@ -43,7 +43,7 @@
       <p>As mentioned in FAQ item #2 above, this course is based on material we've crafted for the Coursera MOOC Specialization on Mobile Cloud Computing with Android. This
         material is intended for self-motivated students who
         <ul>
-        <li> Know Java, Eclipse, and Git (or can learn them quickly on
+        <li> Know Java, Android Studio, IntelliJ, and Git (or can learn them quickly on
         their own) 
         <li> Want to understand both the concepts and
         practice of developing object-oriented and generic software applications and services
@@ -54,7 +54,7 @@
            </li>
 
   <li> <b>Can students take this course if they have little/no prior
-      experience programming Java in Eclipse?</b>
+      experience programming Java in IntelliJ and/or Android Studio?</b>
 
       <p>Our course assumes that students are comfortable programming
         in Java. If you don't have any Java programming background you
