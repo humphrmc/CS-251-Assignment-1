@@ -10,7 +10,7 @@
 
 * 11am - 1pm - Nick Lewis
 * 1pm - 2:30pm - Sam Pepose
-* 2pm - 4pm - Siddhartha Somayajula
+* 2pm - 4pm - Sidd Somayajula
 
 # Wednesday
 
@@ -20,7 +20,7 @@
 
 * 1pm - 2:30pm - Sam Pepose
 * 2pm - 3pm - Rounak Salim
-* 2pm - 4pm - Siddhartha Somayajula
+* 2pm - 4pm - Sidd Somayajula
 * 3pm - 5pm - Conor Joplin
 
 # Friday
