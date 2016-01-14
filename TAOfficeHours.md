@@ -4,6 +4,7 @@
 
 * 12pm - 2pm - Harrison Stall
 * 1pm - 3pm - Danny McClanahan
+* 2pm - 5pm - Rounak Salim
 
 # Tuesday
 
@@ -18,6 +19,7 @@
 # Thursday
 
 * 1pm - 2:30pm - Sam Pepose
+* 2pm - 3pm - Rounak Salim
 * 2pm - 4pm - Siddhartha Somayajula
 * 3pm - 5pm - Conor Joplin
 
