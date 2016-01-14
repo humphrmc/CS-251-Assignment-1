@@ -5,6 +5,7 @@
 * 12pm - 2pm - Harrison Stall
 * 1pm - 3pm - Danny McClanahan
 * 2pm - 5pm - Rounak Salim
+* 3pm - 5pm - Siddharth Somayajula
 
 # Tuesday
 
