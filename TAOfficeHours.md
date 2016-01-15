@@ -13,10 +13,12 @@
 * 1pm - 2:30pm - Sam Pepose
 * 2pm - 4pm - Sidd Somayajula
 * 3pm - 5pm - Rounak Salim
+* 3pm - 5pm - Brittany Roth
 
 # Wednesday
 
 * 12:30pm - 2pm - Harrison Stall
+* 3pm - 4pm - Brittany Roth
 
 # Thursday
 
@@ -24,6 +26,7 @@
 * 2:30pm - 4pm - Rounak Salim
 * 2pm - 4pm - Sidd Somayajula
 * 3pm - 5pm - Conor Joplin
+* 3pm - 5pm - Brittany Roth
 
 # Friday
 
