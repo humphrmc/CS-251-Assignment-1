@@ -57,8 +57,8 @@
       experience programming Java in IntelliJ and/or Android Studio?</b>
 
       <p>Our course assumes that students are comfortable programming
-        in Java. If you don't have any Java programming background you
-        might consider taking the course <a
+        in Java at the level taught in CS 101. If you don't have any Java programming background you
+        should not take this course since you do not have the prerequisites.  If you simply need to brush up on your Java knowledge from CS 101 you might consider taking the course <a
         href="https://www.udemy.com/java-tutorial/">Java for Complete
         Beginners</a>. 
       </p>
