@@ -17,6 +17,7 @@
 
 # Wednesday
 
+* 9am - 11am - Ashley Peck 
 * 12:30pm - 2pm - Harrison Stall
 * 3pm - 4pm - Brittany Roth
 
