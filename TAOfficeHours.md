@@ -19,7 +19,7 @@
 
 * 9am - 11am - Ashley Peck 
 * 12:30pm - 2pm - Harrison Stall
-* 3pm - 4pm - Brittany Roth
+* 4:30pm - 5:30pm - Brittany Roth
 
 # Thursday
 
