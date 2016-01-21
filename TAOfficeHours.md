@@ -5,7 +5,6 @@
 * 12pm - 2pm - Harrison Stall
 * 1pm - 3pm - Danny McClanahan
 * 2:30pm - 5pm - Rounak Salim
-* 3pm - 5pm - Sidd Somayajula
 
 # Tuesday
 
@@ -18,8 +17,10 @@
 # Wednesday
 
 * 9am - 11am - Ashley Peck 
+* 9am - 11am - Sidd Somayajula
 * 12:30pm - 2pm - Harrison Stall
 * 4:30pm - 5:30pm - Brittany Roth
+
 
 # Thursday
 
